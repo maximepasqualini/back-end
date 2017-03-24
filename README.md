@@ -1,7 +1,4 @@
 # back-end
-<snippet>
-  <content><![CDATA[
-# ${1:Back-end}
 TODO: Ceci est le projet back-end
 ## Installation
 TODO: Describe the installation process
@@ -21,4 +18,3 @@ TODO: Write credits
 TODO: Write license
 ]]></content>
   <tabTrigger>readme</tabTrigger>
-</snippet>
