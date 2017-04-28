@@ -7,4 +7,3 @@ TODO: Ceci est le projet back-end
 - Maxime Pasqualini
 - Mickael Petit
 
-Je suis Charlie
